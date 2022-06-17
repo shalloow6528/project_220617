@@ -1,0 +1,26 @@
+*{margin: 0; padding: 0;}
+ol, ul, dl{list-style: none;}
+a{text-decoration: none; color:#222;}
+
+.red{background-color: red;}
+.black{background-color: #000;}
+.yellow{background-color: yellow;}
+.blue{background-color: blue;}
+.green{background-color: green;}
+
+/* ab형 */
+/* .container{width: 1200px; margin: 0 auto;} */
+/* c형 */
+.container{width: 1000px;}
+.w200{width: 200px;}
+.w800{width: 800px;}
+
+/* common */
+.d-flex{display: flex;}
+.justify-content-between{justify-content: space-between;}
+.align-items-center{align-items: center;}
+.h100{height: 100px;}
+.h200{height: 200px;}
+.h300{height: 300px;}
+.rel{position: relative;}
+.abs{position: absolute;}
